@@ -1,0 +1,1 @@
+Add Local Package to app - CMD: npm link (package-path) e.g. npm link ../calculator-package 
